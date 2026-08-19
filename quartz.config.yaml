@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ocelloid.github.io/vtm-v6a
+  baseUrl: v6.ocelloid.com
   ignorePatterns:
     - private
     - templates
