@@ -1,10 +1,12 @@
 ---
-type: глава
+title: Только не в моём домене
+type: сценарий
 sources:
   - packet: st
     start: 1370
     end: 1867
-aliases: []
+aliases:
+  - Только не в моём домене
 unlisted: true
 ---
 # Только не в моём домене!
